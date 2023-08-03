@@ -17,6 +17,8 @@ Attribute information:
 - Label Encoding
 - Model Training
 - Prediction
+  
 **Accuracy Achieved:**
-  - KNeighbors Classifier: 100%
-  - Logistic Regression: 95.55%
+
+- KNeighbors Classifier: 100%
+- Logistic Regression: 95.55%
